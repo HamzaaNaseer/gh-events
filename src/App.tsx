@@ -3,11 +3,11 @@ import './App.css'
 
 function App() {
   const { count, increment, decrement } = useCounter()
-
+// this is a comment
   return (
     <div className="App">
       <header className="App-header">
-        <p>Hello Vite + React!</p>
+        <p>Hello Vite + React! + Hamza</p>
         <p>count is: {count}</p>
         <p>
           <button
