@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>Hello Vite + React!</p>
+        <p>Hello Vite + React! + Hamza</p>
         <p>count is: {count}</p>
         <p>
           <button
